@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000";
+const API_URL = "https://ai-website-builder-mf4i.onrender.com";
 
 class ApiError extends Error {
   constructor(message, status) {
